@@ -1,0 +1,13 @@
+[Thu Jan 29 14:30:08 2026] PHP 8.3.6 Development Server (http://localhost:8080) started
+[Thu Jan 29 14:30:45 2026] [::1]:41534 Accepted
+[Thu Jan 29 14:30:45 2026] [::1]:41534 [200]: GET /login.php
+[Thu Jan 29 14:30:45 2026] [::1]:41534 Closing
+[Thu Jan 29 14:30:48 2026] [::1]:41542 Accepted
+[Thu Jan 29 14:30:48 2026] [::1]:41542 [302]: POST /login.php
+[Thu Jan 29 14:30:48 2026] [::1]:41542 Closing
+[Thu Jan 29 14:30:48 2026] [::1]:41550 Accepted
+[Thu Jan 29 14:30:48 2026] [::1]:41550 [200]: GET /dashboard.php
+[Thu Jan 29 14:30:48 2026] [::1]:41550 Closing
+[Thu Jan 29 14:30:49 2026] [::1]:41562 Accepted
+[Thu Jan 29 14:30:49 2026] [::1]:41562 [200]: GET /sources.php
+[Thu Jan 29 14:30:49 2026] [::1]:41562 Closing
