@@ -1,0 +1,282 @@
+[
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@FaStLy.TeMas-Bor.iR:8080?security=none&type=xhttp&headerType=&path=%2F%3Fed%3D2048&host=ir-1.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AE%F0%9F%87%B7%20Protocol%20FaStLy",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "69c7914d88ccb206f5e8e28257560009",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@FaStLy2.TeMas-Bor.iR:8080?security=none&type=xhttp&headerType=&path=%2F%3Fed%3D2048&host=ir-2.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AE%F0%9F%87%B7%20Protocol%20FaStLy",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "91f6bb292e25a22ce58723ad3dc968cd",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@FaStLy.TeMas-Bor.iR:8080?security=none&type=xhttp&headerType=&path=%2F%3Fed%3D2048&host=ir-3.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%AE%F0%9F%87%B7%20Protocol%20FaStLy",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "da99baf9fd1acfc16ff952596ef34a71",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@cloud.team-pluss.com:2083?security=tls&type=xhttp&headerType=&path=%2F&host=ir-1.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=ir-1.temas-bor.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20Ws%20TLS",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "d6bdacdbeee05032320842c8f452ab25",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@63.141.128.18:2083?security=tls&type=xhttp&headerType=&path=%2F&host=ir-2.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=ir-2.temas-bor.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20Ws%20TLS",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "036ae49febf4024a375dd84f6b117bc7",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@cloud.team-pluss.com:2083?security=tls&type=xhttp&headerType=&path=%2F&host=ir-3.temas-bor.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=ir-3.temas-bor.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20Ws%20TLS",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "8b7d116c68887584431989e61106330b",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/fbeac14d-7921-4c06-924c-8563ed7360d4@37.152.175.115:882?security=none&type=tcp&headerType=http&path=%2F&host=parsabr.com#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%AE%F0%9F%87%B7%20IR%201",
+        "name": "Vpn1",
+        "origin": "auto",
+        "id": "de9c9aed86b8cb56e87eb450083aad6a",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/e2e360f8-571e-4634-a9cf-3ce9b4a694a9@net53.network.org:8443?security=none&type=tcp#-1.72%20MB23",
+        "name": "6b0c_hosseineb_3782",
+        "origin": "auto",
+        "id": "33559f154792cf9735544c56e82564da",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/e2e360f8-571e-4634-a9cf-3ce9b4a694a9@net53.network.org:8443?security=none&type=tcp#25.79%20GB25",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "3b8c203c1a15f2e619af51069b050a16",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@212.23.214.148:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "6b25da2471d4565298829db6dd4190e6",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@212.23.214.130:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AC%F0%9F%87%A7%20England",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "7b7e4ad4e33ecf19c9a9818281ca8b9b",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@212.23.214.235:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%BA%F0%9F%87%B8%20United%20States",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "dc5d78eb5dc23f2578d2dc9f46a703ef",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@212.23.214.116:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B9%F0%9F%87%B7%20Turkey",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "1d184e8d36a67792a060f53c96b26bb4",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@188.212.97.242:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AB%F0%9F%87%AE%20Finland",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "f618491d0e6ceef93052d63fb47e52be",
+        "stability": 100,
+        "latency": 96
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@188.212.97.126:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AB%F0%9F%87%B7%20France",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "755a0f5073ed15e0d28cf029c31bc95d",
+        "stability": 100,
+        "latency": 99
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@188.212.97.127:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AE%F0%9F%87%B9%20Milan",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "65e38435b3ce941f84d8927345ca4053",
+        "stability": 100,
+        "latency": 98
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@188.212.97.120:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "deb55114a0da9300fbed235f7330c2ef",
+        "stability": 100,
+        "latency": 451
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@188.212.97.120:8080?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%A6%F0%9F%87%B1%20Albania",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "f2b84f9cadc04c6894d9448ecdc7017d",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.193:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%A8%F0%9F%87%BF%20Czech",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "b9a0bb063abe55cf65926dc59705b95d",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.194:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B8%F0%9F%87%AA%20Sweden",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "6c9ae823b264e9d66864d08ee643f64e",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.195:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B7%F0%9F%87%B4%20Romania",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "62610339e990bafaf9649ee3b82bf312",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.196:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AA%F0%9F%87%AA%20Estonia",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "ff012713e6dc0ab5a6552443ceec5a57",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.197:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B5%F0%9F%87%B1%20Poland",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "09557fcf4486784377c45e97fa9d587a",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.198:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%A7%F0%9F%87%AA%20Belgium",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "ef6cec0ad8974babc43efbe1d2b390b5",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.199:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%AA%F0%9F%87%B8%20Spain",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "a8f3a851c2a9cec9633efdcffb033844",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.200:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%A6%F0%9F%87%B9%20Austria",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "4b6f5802e71d3b81fb0b2e6f4e0cf2b7",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.201:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "0ab4e4a531001fe4d26ea8c9cd6efb1e",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/089a4dee-732e-fed9-7ee9-ddb74096d964@94.183.165.202:80?security=none&type=tcp&headerType=http&path=%2F&host=mir-data-60.myket.ir#%F0%9F%87%B3%F0%9F%87%B4%20Norway",
+        "name": "Vpn4",
+        "origin": "auto",
+        "id": "66c28e21dfe611e3848fa42c0b8b6bae",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/89d1a414-a9e6-40d1-b036-a5140e41888e@red.iran-ont.co.uk:483?security=&encryption=none&headerType=http&type=tcp#RED10-59q2haih",
+        "name": "Red",
+        "origin": "manual",
+        "id": "0dbe7d19f9beec95967e4c2031643e6b",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "vless:\/\/2f067498-2b23-47f4-ac41-f716838dc4bb@89.47.175.100:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#avovpn.com-7034334-5113724",
+        "name": "Atpel",
+        "origin": "manual",
+        "id": "1e19c1e3671c0879ae92cb7012263eb6",
+        "stability": 100,
+        "latency": 32
+    },
+    {
+        "uri": "warp:\/\/188.114.99.150:1180\/?ifp=5-10#@Warp1",
+        "name": "Server 1",
+        "origin": "manual",
+        "id": "880b7e35a94f5eb0b92484c42eec1027",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "warp:\/\/188.114.98.90:4233\/?ifp=5-10#@Warp2",
+        "name": "Server 2",
+        "origin": "manual",
+        "id": "92200a26c7ab1556fa378355a35bda77",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "warp:\/\/188.114.99.13:1180\/?ifp=5-10#@Warp3",
+        "name": "Server 3",
+        "origin": "manual",
+        "id": "eba72e14c35744417640362a220a3dac",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "warp:\/\/188.114.99.145:1180\/?ifp=5-10#@Warp4",
+        "name": "Server 4",
+        "origin": "manual",
+        "id": "6c099c54415b32ff1fc2cd7815c88ab6",
+        "stability": 0,
+        "latency": 0
+    },
+    {
+        "uri": "warp:\/\/188.114.99.95:1180\/?ifp=5-10#@Warp5",
+        "name": "Server 5",
+        "origin": "manual",
+        "id": "560d652fa3b86147cdab63737573cc97",
+        "stability": 0,
+        "latency": 0
+    }
+]
